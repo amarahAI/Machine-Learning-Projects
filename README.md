@@ -68,3 +68,11 @@ Neural Information Processing Systems (NIPS) is one of the top machine learning 
 • Analysing trends with LDA
 
 --------------------------------------------------------------------------------------------------------------------------
+
+4. Insurance Prediction with Machine Learning using Python
+
+My task is to train a machine learning model to predict whether an individual will purchase the insurance policy from the company or not
+
+I did The following task - 
+
+
