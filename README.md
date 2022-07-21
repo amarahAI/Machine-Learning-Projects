@@ -75,4 +75,22 @@ My task is to train a machine learning model to predict whether an individual wi
 
 I did The following task - 
 
+•	EDA
+
+•	Numerical Data Exploration
+
+•	Categorical Data Exploration
+
+•	Correlation Test
+
+•	Significant Test
+
+•	Splitting the dataset
+
+•	Scaling the data
+
+•	Model Building with Logistic Regression, SVM, KNN, Naïve Based, SGD Classifier, Decision Tree, Random Forest, XG Boost
+
+•	Choosing the Best Model
+
 
