@@ -5,13 +5,21 @@
 NYC is one of the most-visited cities in the world. As a result, there are many Airbnb listings to meet the high demand for temporary lodging for anywhere between a few nights to many months. This project involved data importing and cleaning skills to uncover insights into the Airbnb market in New York City. 
 
 • Importing the Data
+
 • Cleaning the price column
+
 • Calculating average price
+
 • Comparing costs to the private rental market
+
 • Cleaning the room-type column
+
 • Calculating the timeframe of working
+
 • Joining the DataFrames.
+
 • Analyzing listing prices by NYC borough
+
 • Price range by borough
 
 ---------------------------------------------------------------------------------------------------------------------
